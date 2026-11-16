@@ -1,5 +1,8 @@
-mlflow
+mlflow>=3.0
 scikit-learn
+pandas
 numpy
+matplotlib
+requests
 ipykernel
 xgboost
